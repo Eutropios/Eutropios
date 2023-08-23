@@ -22,4 +22,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eutropios&show_icons=true&locale=en&layout=donut&langs=8&theme=onedark"/>
 </picture>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eutropios&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
+![trophy](https://github-profile-trophy.vercel.app/?username=eutropios&theme=onedark&row=2&column=4)
