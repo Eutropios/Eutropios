@@ -12,11 +12,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=eutropios&show_icons=true&locale=en&layout=donut&langs=6"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=eutropios&show_icons=true&locale=en&layout=donut&langs=7"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=eutropios&show_icons=true&locale=en&layout=donut&langs=6&theme=onedark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=eutropios&show_icons=true&locale=en&layout=donut&langs=7&theme=onedark"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eutropios&show_icons=true&locale=en&layout=donut&langs=10&theme=onedark"/>
