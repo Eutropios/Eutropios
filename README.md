@@ -19,7 +19,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=eutropios&show_icons=true&locale=en&layout=donut&langs=6&theme=onedark"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eutropios&show_icons=true&locale=en&layout=donut&langs=10&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eutropios&show_icons=true&locale=en&layout=donut&langs=6&theme=onedark"/>
 </picture>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=eutropios&theme=onedark&row=2&column=4)
